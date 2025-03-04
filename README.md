@@ -1,2 +1,2 @@
 # websitetest
-link: https//ripudamanbhardwaj.github.io/
+link: https://ripudamanbhardwaj.github.io/
